@@ -4,9 +4,9 @@ Example setup of Redis container
 **DO NOT FORGET TO CHANGE USERNAME AND PASSWORD in redis.conf file
 (line 683) !!!**
 
-**Build Image**
+**Build Image:**
 
-```docker build -t video_server .```
+```docker build -t test_redis .```
 
 **How To Run:**
 
