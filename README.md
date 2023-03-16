@@ -14,7 +14,7 @@ Example setup of Redis container
 
 **HOWTO redis-cli:**
 
-1. ```docker exec -it new_snod_redis sh```
+1. ```docker exec -it test_redis sh```
 
 2. ```redis-cli```
 
